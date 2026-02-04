@@ -1,7 +1,10 @@
-background-color: #FA8072;
 p {
   text-align: center;
   color: red;
+}
+body {
+	background: salmon;
+	font-family: sans-serif;
 }
 #header {
   color: green;
